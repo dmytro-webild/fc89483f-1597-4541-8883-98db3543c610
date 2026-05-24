@@ -163,7 +163,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       background={{ variant: "radial-gradient" }}
       title="Ready for Comfort?"
-      description="Request your free consultation today."
+      description="Request your free consultation today. Or call us directly at +12698380557."
       buttonText="Submit Request"
       tag="Get in touch"
     />
