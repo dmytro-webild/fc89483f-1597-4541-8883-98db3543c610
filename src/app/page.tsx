@@ -11,7 +11,7 @@ import MetricCardTwo from '@/components/sections/metrics/MetricCardTwo';
 import NavbarLayoutFloatingInline from '@/components/navbar/NavbarLayoutFloatingInline';
 import TestimonialAboutCard from '@/components/sections/about/TestimonialAboutCard';
 import TestimonialCardSix from '@/components/sections/testimonial/TestimonialCardSix';
-import { Award, Check, Leaf, Shield, Wheelchair } from "lucide-react";
+import { Award, Check, Leaf, Shield, Accessibility } from "lucide-react";
 
 export default function LandingPage() {
   return (
@@ -77,7 +77,7 @@ export default function LandingPage() {
       title="Quality You Can Trust"
       description="We treat every home with respect and every system with expert attention. Our facility features a wheelchair accessible entrance and an accessible parking lot for your convenience."
       subdescription="With over 15 years in the industry, our mission is to provide HVAC solutions that bring comfort back into your home, accessible to everyone."
-      icon={Wheelchair}
+      icon={Accessibility}
       imageSrc="http://img.b2bpic.net/free-photo/close-up-skillful-technician-commissioned-outside-hvac-system-routine-maintenance-looking-refrigerant-issues-meticulous-mechanic-doing-air-conditioner-inspection-writing-data-tablet_482257-66265.jpg"
       mediaAnimation="slide-up"
     />
