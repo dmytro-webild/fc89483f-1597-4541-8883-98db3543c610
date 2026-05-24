@@ -73,7 +73,7 @@ export default function LandingPage() {
           href: "tel:+1000000000",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/young-man-room-with-solid-fuel-boiler-working-biofuel-economical-heating_169016-15373.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/young-man-room-with-solid-fuel-boiler-working-biofuel-economical-heating_169016-15373.jpg?_wi=1"
       mediaAnimation="blur-reveal"
       avatars={[
         {
@@ -133,7 +133,7 @@ export default function LandingPage() {
       description="We treat every home with respect and every system with expert attention."
       subdescription="With over 15 years in the industry, our mission is to provide HVAC solutions that bring comfort back into your home."
       icon={Shield}
-      imageSrc="http://img.b2bpic.net/free-photo/close-up-skillful-technician-commissioned-outside-hvac-system-routine-maintenance-looking-refrigerant-issues-meticulous-mechanic-doing-air-conditioner-inspection-writing-data-tablet_482257-66265.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/close-up-skillful-technician-commissioned-outside-hvac-system-routine-maintenance-looking-refrigerant-issues-meticulous-mechanic-doing-air-conditioner-inspection-writing-data-tablet_482257-66265.jpg?_wi=1"
       mediaAnimation="slide-up"
     />
   </div>
@@ -161,7 +161,7 @@ export default function LandingPage() {
             imageSrc: "http://img.b2bpic.net/free-photo/worker-repairing-water-heater_23-2149334226.jpg",
           },
           reverse: false,
-          imageSrc: "http://img.b2bpic.net/free-photo/young-man-room-with-solid-fuel-boiler-working-biofuel-economical-heating_169016-15373.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-man-room-with-solid-fuel-boiler-working-biofuel-economical-heating_169016-15373.jpg?_wi=2",
           imageAlt: "hvac tools close up",
         },
         {
@@ -181,7 +181,7 @@ export default function LandingPage() {
             imageSrc: "http://img.b2bpic.net/free-photo/african-american-worker-sweeping-away-loose-debris-accumulated-around-air-conditioner-base-trained-engineer-cleaning-hvac-system-body-control-panel-with-dusting-brush-tool-remove-loose-dirt_482257-70162.jpg",
           },
           reverse: true,
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-skillful-technician-commissioned-outside-hvac-system-routine-maintenance-looking-refrigerant-issues-meticulous-mechanic-doing-air-conditioner-inspection-writing-data-tablet_482257-66265.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-skillful-technician-commissioned-outside-hvac-system-routine-maintenance-looking-refrigerant-issues-meticulous-mechanic-doing-air-conditioner-inspection-writing-data-tablet_482257-66265.jpg?_wi=2",
           imageAlt: "hvac tools close up",
         },
         {
@@ -201,7 +201,7 @@ export default function LandingPage() {
             imageSrc: "http://img.b2bpic.net/free-photo/happy-mechanic-working-computer-auto-repair-shop_637285-9759.jpg",
           },
           reverse: false,
-          imageSrc: "http://img.b2bpic.net/free-photo/young-loader-showing-thumbs-up-uniform-looking-happy-front-view_176474-21432.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-loader-showing-thumbs-up-uniform-looking-happy-front-view_176474-21432.jpg?_wi=1",
           imageAlt: "hvac tools close up",
         },
       ]}
@@ -249,7 +249,7 @@ export default function LandingPage() {
           name: "Sarah Johnson",
           handle: "@sarahj",
           testimonial: "Truly the most honest HVAC team I have ever worked with.",
-          imageSrc: "http://img.b2bpic.net/free-photo/young-loader-showing-thumbs-up-uniform-looking-happy-front-view_176474-21432.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-loader-showing-thumbs-up-uniform-looking-happy-front-view_176474-21432.jpg?_wi=2",
         },
         {
           id: "2",
